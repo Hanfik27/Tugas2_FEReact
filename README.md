@@ -5,8 +5,9 @@
 ### Backend
 ```npm install express cors pg bcryptjs jsonwebtoken dotenv```
 #
-### Running Code
-Frontend
+## Running Code
+### Frontend
 ```npm start```
-Backend
+#
+### Backend
 ```npm run dev```
